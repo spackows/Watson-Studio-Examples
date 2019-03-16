@@ -276,7 +276,7 @@ See also:
 
 ### Step 6: Run the app on your local computer
 
-1. Open a command prompt and then navigate to the directory contianing the file <code>server.py</code>
+1. Open a command prompt and then navigate to the directory containing the file <code>server.py</code>
 2. From the command line, start the Python Flask server by issuing the following command: <pre><code>python server.py</code></pre>
 3. Open a web browser to: [http://localhost:8000/](http://localhost:8000)
 4. Classify one of the test images
