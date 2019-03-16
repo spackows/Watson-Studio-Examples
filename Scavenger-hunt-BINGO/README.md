@@ -210,7 +210,7 @@ See also: <a href="https://dataplatform.cloud.ibm.com/docs/content/analyze-data/
       <li>Back in the <b>Credentials</b> tab of the Visual Recognition tool, create some test credentials, and then copy the <code>apikey</code> value</li>
       <li>Paste the apikey in the notebook where needed</li>
     </ol></li>
-<li><p>Read, explore, and run the cells of the sample notebook.  Learn how to use the Watson Visual Recognition Python client to classify test images.  And begin to define functions that would be needed in a demo Python web app.</p>
+<li><p>Read, explore, and run the cells of the sample notebook.  Learn how to use the Watson Visual Recognition Python client to classify test images.  And begin to define functions that would be needed in a demo Python web app.</p></li>
 </ol>
 
 See also:
