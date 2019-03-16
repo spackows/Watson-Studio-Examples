@@ -82,7 +82,7 @@ After you get the sample working, collect images of your favorite objects or tou
 
 #### About the sample training data
 
-The sample training data includes 25 images of 11 indoor objects:
+The sample training data includes 25 images for each of 11 indoor objects:
 
 <table>
 <tr>
